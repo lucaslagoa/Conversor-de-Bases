@@ -1,0 +1,5 @@
+Base destino / Número convertido
+16		9F5
+8		4765
+2		10000101010111
+8		1427
